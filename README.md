@@ -2,6 +2,8 @@
 
 ### 🔶 JavaScript Fundamentals
 
+### 🔶 Developer Skills
+
 ---
 
 > Copyright &copy; 2023 by **Bruno Seghese**
