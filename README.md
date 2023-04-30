@@ -4,6 +4,12 @@
 
 ### 🔶 Developer Skills
 
+### 🔶 DOM and Events
+
+- Project 01: [Guess My Number](https://js-guessnumber.netlify.app/)🔗
+- Project 02: [Modal Windows](https://js-showmodal.netlify.app/)🔗
+- Project 03: [Pig Game](https://js-pigame.netlify.app/)
+
 ---
 
 > Copyright &copy; 2023 by **Bruno Seghese**
