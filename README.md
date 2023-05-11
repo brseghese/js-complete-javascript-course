@@ -8,7 +8,11 @@
 
 - Project 01: [Guess My Number](https://js-guessnumber.netlify.app/)🔗
 - Project 02: [Modal Windows](https://js-showmodal.netlify.app/)🔗
-- Project 03: [Pig Game](https://js-pigame.netlify.app/)
+- Project 03: [Pig Game](https://js-pigame.netlify.app/)🔗
+
+### 🔶 JavaScript behind the Scenes
+
+### 🔶 Data Structues, Modern Operators and Strings
 
 ---
 
