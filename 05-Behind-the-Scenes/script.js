@@ -1,6 +1,6 @@
 'use strict';
 
-///////////////////////////////////////
+// --------------------------------------------------------
 // Scoping in Practice
 
 /*
@@ -42,7 +42,7 @@ calcAge(1991);
 // printAge();
 
 
-///////////////////////////////////////
+// --------------------------------------------------------
 // Hoisting and TDZ in Practice
 
 // Variables
@@ -89,7 +89,7 @@ console.log(y === window.y);
 console.log(z === window.z);
 
 
-///////////////////////////////////////
+// --------------------------------------------------------
 // The this Keyword in Practice
 console.log(this);
 
@@ -125,7 +125,7 @@ const f = jonas.calcAge;
 f();
 
 
-///////////////////////////////////////
+// --------------------------------------------------------
 // Regular Functions vs. Arrow Functions
 // var firstName = 'Matilda';
 
@@ -174,7 +174,7 @@ var addArrow = (a, b) => {
 addArrow(2, 5, 8);
 
 
-///////////////////////////////////////
+// --------------------------------------------------------
 // Objects vs. primitives
 let age = 30;
 let oldAge = age;
@@ -192,7 +192,7 @@ console.log('Friend:', friend);
 console.log('Me', me);
 
 
-///////////////////////////////////////
+// --------------------------------------------------------
 // Primitives vs. Objects in Practice
 
 // Primitive types
@@ -230,4 +230,3 @@ jessicaCopy.family.push('John');
 console.log('Before marriage:', jessica2);
 console.log('After marriage: ', jessicaCopy);
 */
-

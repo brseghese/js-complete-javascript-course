@@ -14,6 +14,8 @@
 
 ### 🔶 Data Structues, Modern Operators and Strings
 
+### 🔶 A closer look at Functions
+
 ---
 
 > Copyright &copy; 2023 by **Bruno Seghese**
