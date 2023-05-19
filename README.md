@@ -16,6 +16,12 @@
 
 ### 🔶 A closer look at Functions
 
+### 🔶 Working with Arrays
+
+- Project 04: [Bankist](https://js-bankist-arrays.netlify.app/)🔗
+
+  - Login: js / Senha: 1111
+
 ---
 
 > Copyright &copy; 2023 by **Bruno Seghese**
