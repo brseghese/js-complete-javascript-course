@@ -18,9 +18,9 @@
 
 ### 🔶 Working with Arrays
 
-- Project 04: [Bankist](https://js-bankist-arrays.netlify.app/)🔗
+### 🔶 Numbers, Dates and Timers
 
-  - Login: js / Senha: 1111
+- Project [Bankist](https://js-bankist-arrays.netlify.app/)🔗
 
 ---
 
