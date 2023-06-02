@@ -20,7 +20,11 @@
 
 ### 🔶 Numbers, Dates and Timers
 
-- Project [Bankist](https://js-bankist-arrays.netlify.app/)🔗
+- Project [Bankist App](https://js-bankist-arrays.netlify.app/)🔗
+
+### 🔶 Advanced DOM and Events
+
+- Project [Bankist Site](https://js-bankist-dom.netlify.app/)🔗
 
 ---
 
