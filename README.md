@@ -26,6 +26,8 @@
 
 - Project [Bankist Site](https://js-bankist-dom.netlify.app/)🔗
 
+### 🔶 Object-Oriented-Programming (OOP) with JS
+
 ---
 
 > Copyright &copy; 2023 by **Bruno Seghese**
