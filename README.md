@@ -26,9 +26,11 @@
 
 - Project [Bankist Site](https://js-bankist-dom.netlify.app/)🔗
 
-### 🔶 Object-Oriented-Programming (OOP) with JS
+### 🔶 Object-Oriented-Programming (OOP)
 
 - Project [Mapty App](https://js-mapty-oop.netlify.app/)🔗
+
+### 🔶 Asynchronous JavaScript
 
 ---
 
