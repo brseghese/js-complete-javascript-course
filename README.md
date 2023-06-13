@@ -32,6 +32,8 @@
 
 ### 🔶 Asynchronous JavaScript
 
+### 🔶 Modern JS - Modules, Tooling and Functional
+
 ---
 
 > Copyright &copy; 2023 by **Bruno Seghese**
