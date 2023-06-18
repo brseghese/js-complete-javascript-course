@@ -1,0 +1,18 @@
+{
+  "name": "forkity",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Bruno Seghese",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.2",
+    "parcel": "^2.9.2"
+  },
+  "dependencies": {
+    "fractional": "^1.0.0"
+  }
+}

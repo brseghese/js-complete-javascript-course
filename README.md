@@ -34,6 +34,10 @@
 
 ### 🔶 Modern JS - Modules, Tooling and Functional
 
+### 🔶 Building a Modern Application (MVC)
+
+- Project [Forkify App](https://js-forkify-app.netlify.app/)🔗
+
 ---
 
 > Copyright &copy; 2023 by **Bruno Seghese**
